@@ -1,1 +1,1 @@
-console.log("test final merge + suppr");
+console.log("test final merge + suppr + magie");
